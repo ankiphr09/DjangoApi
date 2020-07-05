@@ -1,3 +1,4 @@
+# This is Serializer logic section
 from rest_framework import serializers
 from .models import Course
 
